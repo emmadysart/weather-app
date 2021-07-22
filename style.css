@@ -36,7 +36,6 @@ img {
 .btn btn-secondary {
   display: block;
   margin: 0 auto;
-  
 }
 .row {
   --bs-gutter-x: 0;
@@ -57,4 +56,13 @@ img {
     rgb(95, 209, 249) 100.2%
   );
   color: #dfe9f3;
+}
+
+#code-link {
+  font-family: "Roboto", sans-serif;
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+  min-width: 706px;
+  padding: 25px;
 }
